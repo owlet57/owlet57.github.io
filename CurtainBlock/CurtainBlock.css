@@ -89,7 +89,8 @@ Written by Jessica Alouette <me@jessicaalouette.com>
         box-shadow: 0px 0px 10px rgba(0,100,0,0.8);
         -webkit-box-shadow: 0px 0px 10px rgba(0,100,0,0.8);
         -moz-box-shadow: 0px 0px 10px rgba(0,100,0,0.8);
-        -moz-box-shadow: 0px 0px 10px rgba(0,100,0,0.8);
+        -ms-box-shadow: 0px 0px 10px rgba(0,100,0,0.8);
+        -o-box-shadow: 0px 0px 10px rgba(0,100,0,0.8);
 }
 .CurtainBlockDeny:hover{
         cursor:pointer;
@@ -97,4 +98,6 @@ Written by Jessica Alouette <me@jessicaalouette.com>
         box-shadow: 0px 0px 10px rgba(100,0,0,0.8);
         -webkit-box-shadow: 0px 0px 10px rgba(200,0,0,0.8);
         -moz-box-shadow: 0px 0px 10px rgba(200,0,0,0.8);
+        -ms-box-shadow: 0px 0px 10px rgba(200,0,0,0.8);
+        -o-box-shadow: 0px 0px 10px rgba(200,0,0,0.8);
 }
